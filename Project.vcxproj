@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="AddTwo.asm" />
+    <MASM Include="AddSub2.asm" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Project.lst" />
